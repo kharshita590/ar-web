@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useRef } from "react";
 import * as THREE from "three";
-
+declare module 'three';
 const ThreeDObject: React.FC = () => {
   const mountRef = useRef<HTMLDivElement>(null);
 
