@@ -52,7 +52,7 @@ export default function CardSection() {
             <img src="./card.svg" alt="" />
           </SwiperSlide>
         </div>
-        <div className="slider-controler">
+        {/* <div className="slider-controler">
           <div className="swiper-button-prev slider-arrow">
             <IoArrowBackOutline size={24} />
           </div>
@@ -60,7 +60,7 @@ export default function CardSection() {
             <IoArrowForwardOutline size={24} />
           </div>
           <div className="swiper-pagination"></div>
-        </div>
+        </div> */}
       </Swiper>
     </main>
   );

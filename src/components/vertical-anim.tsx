@@ -2,17 +2,18 @@ import styled, { keyframes, css } from "styled-components";
 
 export default function VerticalAnim() {
   const col1 = [
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+
   ];
 
   const col2 = [
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
-    "https://dl.dropbox.com/scl/fi/61ymeutkvuf1s8v4ddqyl/Group-7.svg?rlkey=qem1djd77xsiwzf2scs4kyaej&st=kyq87cif&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
   ];
 
   return (
@@ -110,6 +111,9 @@ const ImageGroup = styled.div`
 
 const Image = styled.img`
   object-fit: contain;
+  background-color:white;
+
+ 
   width: 100%;
   height: 100%;
   border-radius: 0.5rem;
