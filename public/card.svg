@@ -1,7 +1,7 @@
 <svg width="266" height="261" viewBox="0 0 266 261" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g filter="url(#filter0_bd_14_112)">
-<path d="M8 26C8 14.9543 16.9543 6 28 6H228C239.046 6 248 14.9543 248 26V241H8V26Z" fill="black"/>
-<path d="M9 26C9 15.5066 17.5066 7 28 7H228C238.493 7 247 15.5066 247 26V240H9V26Z" stroke="url(#paint0_linear_14_112)" stroke-width="2"/>
+<path d="M8 30C8 16.7452 18.7452 6 32 6H224C237.255 6 248 16.7452 248 30V217C248 230.255 237.255 241 224 241H32C18.7452 241 8 230.255 8 217V30Z" fill="black"/>
+<path d="M32 7H224C236.703 7 247 17.2975 247 30V217C247 229.703 236.703 240 224 240H32C19.2975 240 9 229.703 9 217V30C9 17.2975 19.2975 7 32 7Z" stroke="url(#paint0_linear_14_112)" stroke-width="2"/>
 </g>
 <rect x="16" y="42" width="211" height="163" fill="url(#pattern0_14_112)"/>
 <defs>
