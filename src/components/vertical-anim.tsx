@@ -16,7 +16,7 @@ export default function VerticalAnim() {
   ];
 
   return (
-    <main>
+    <main className="mt-[-6rem]">
         <div className="p-8 mb-12">
         <p className="text-[24px] font-poppins font-bold">Get Started with AR Templates from the Industry Experts</p>
         </div>
@@ -87,7 +87,7 @@ const common = css`
   align-items: center;
   justify-content: space-around;
   white-space: nowrap;
-  flex-direction:column;
+  flex-direction:column
   height: 100%;
   animation: ${scrollY} 30s linear infinite;
 `;
@@ -104,15 +104,15 @@ const MarqueeGroup2 = styled.div`
 const ImageGroup = styled.div`
   display: grid;
   place-items: center;
-  justify-content:center;
-  align-items:center;
   height: clamp(10rem, 1rem + 40vmin, 30rem);
-  padding: calc(clamp(10rem, 2rem + 30vmin, 30rem) / 10);
+  padding: calc(clamp(10rem, 1rem + 30vmin, 30rem) / 10);
 `;
 
 const Image = styled.img`
   object-fit: contain;
   background-color:white;
+
+ 
   width: 100%;
   height: 100%;
   border-radius: 0.5rem;

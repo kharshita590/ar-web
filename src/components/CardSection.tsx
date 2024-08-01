@@ -11,6 +11,10 @@ import "../app/card.css";
 export default function CardSection() {
   return (
     <main className="container">
+        <div className="flex flex-col justify-center items-center">
+        <p className="font-poppins text-[24px] p-4 font-bold border-2 rounded-lg border-[rgba(247,99,250,1)]">AR View on Mobile</p>
+        </div>
+        
       <Swiper
         effect={"coverflow"}
         grabCursor={true}
