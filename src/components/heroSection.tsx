@@ -4,7 +4,7 @@ import { useEffect,useRef } from "react";
 export default function HeroSection() {
        
   return (
-    <main className="mt-[-10rem]">
+    <main className="mt-[-2rem]">
       <div className="relative h-screen w-full overflow-hidden ">
         <video
           className="absolute w-full h-screen bg-cover bg-center"
