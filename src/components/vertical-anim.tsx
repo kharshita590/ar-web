@@ -66,7 +66,7 @@ export default function VerticalAnim() {
 
 const Marquee = styled.div`
 
- height:300px;
+ height:360px;
  overflow:hidden;
  user-select:none;
 flex-direction:column;
