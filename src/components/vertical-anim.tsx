@@ -2,18 +2,17 @@ import styled, { keyframes, css } from "styled-components";
 
 export default function VerticalAnim() {
   const col1 = [
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
   ];
 
   const col2 = [
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
-    "https:/dl.dropbox.com/scl/fi/vvpea04u119bh1pk0n6qj/Group-7-2.svg?rlkey=pdz8c0j8p1seuc8eby0jyoi6u&st=3wj3vbxc&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
+    "https://dl.dropbox.com/scl/fi/wwv0l8wph611rxdd7i6es/Group-7-1.svg?rlkey=fi2lf93rl88093efeqrfprk1k&st=yaw0kzv8&dl=0",
   ];
 
   return (
