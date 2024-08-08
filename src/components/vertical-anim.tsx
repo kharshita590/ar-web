@@ -56,7 +56,7 @@ export default function VerticalAnim() {
 </MarqueeGroup2>
 </Marquee>
 </main>
- <div className="flex flex-col justify-center items-center mb-12">
+ <div className="flex flex-col justify-center items-center mb-36">
     <button className="w-[248px] h-[39px] border border-[rgba(247,99,250,1)] text-black rounded-md font-bold">Explore the Libraries</button>
  </div>
     </main>
@@ -66,7 +66,7 @@ export default function VerticalAnim() {
 
 const Marquee = styled.div`
 
- height:360px;
+ height:460px;
  overflow:hidden;
  user-select:none;
 flex-direction:column;
